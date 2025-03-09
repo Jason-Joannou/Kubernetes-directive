@@ -193,6 +193,9 @@
         }
       }
     },
+    "github:NixOS/nixpkgs/nixpkgs-unstable": {
+      "resolved": "github:NixOS/nixpkgs/ed0b1881565c1ffef490c10d663d4f542031dad3?lastModified=1741402956&narHash=sha256-y2hByvBM03s9T2fpeLjW6iprbxnhV9mJMmSwCHc41ZQ%3D"
+    },
     "go-task@latest": {
       "last_modified": "2024-05-17T18:08:26Z",
       "resolved": "github:NixOS/nixpkgs/0837fbf227364d79cbae8fff2378125526905cbe#go-task",
@@ -1117,7 +1120,7 @@
     },
     "python312@latest": {
       "last_modified": "2024-05-22T06:18:38Z",
-      "plugin_version": "0.0.3",
+      "plugin_version": "0.0.4",
       "resolved": "github:NixOS/nixpkgs/3f316d2a50699a78afe5e77ca486ad553169061e#python312",
       "source": "devbox-search",
       "version": "3.12.3",
